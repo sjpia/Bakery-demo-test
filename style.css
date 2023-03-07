@@ -1,0 +1,64 @@
+.navbar-nav ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+.fullwidth_hero {
+    color: white;
+    background-image: url("https://images.unsplash.com/photo-1620830958756-46335282c574?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 540px;
+    display: flex;
+    align-items: center;
+  }
+
+.introtxt {
+    color:white;
+    background-color: rgb(77, 77, 77);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.card {
+    height: fit-content; 
+    width: mb-4 ; 
+    display: block;
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+    padding-top: 10px;
+  }
+
+  /* make this section have a colour */
+.tripplecards{
+    background-color: rgb(200, 200, 200); 
+}
+
+.fullwidth_menu{
+    color: white;
+    background-image: url("https://images.unsplash.com/photo-1620830958756-46335282c574?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;   
+}
+
+.featurette-heading{
+    margin-top: 7rem;
+
+}
+.featurette-divider{
+    margin: 5rem 0;
+}
