@@ -1,0 +1,29 @@
+.navbar-nav ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+.fullwidth_hero {
+    color: white;
+    background-image: url("https://images.unsplash.com/photo-1620830958756-46335282c574?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 540px;
+    display: flex;
+    align-items: center;
+  }
+
+.introtxt {
+    color:white;
+    background-color: rgb(77, 77, 77);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
